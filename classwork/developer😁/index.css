@@ -1,0 +1,15 @@
+body{
+    background-color:#50C878;
+    padding: 20PX;
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    color: #000;
+}
+.container{
+    font-size: 20px;
+    font-family: algerian;
+    background-color:#99FFFF;
+    width: 400px;
+    border-radius: 20px;
+    margin: auto;
+}
